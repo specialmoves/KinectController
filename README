@@ -1,0 +1,3 @@
+This is a helper class to be used when working with the Kinect in C# and XNA. 
+
+It can open RGB, Depth and Skeletal streams, as well as track points and specific depth ranges within the depth stream.
